@@ -1,8 +1,8 @@
 # Learn String Manipulation by Building a Cipher
 <i>
-**If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees" by Khalil Gibran**
-**“If you want to keep a secret, you must also hide it from yourself” by George Orwell.**
-**"“The secret of your success is determined by your daily agenda” by John C Maxwell.**
+**If you reveal your secrets to the wind, you should not blame the wind for revealing them to the trees" by Khalil Gibran**<br>
+**“If you want to keep a secret, you must also hide it from yourself” by George Orwell.**<br>
+**"“The secret of your success is determined by your daily agenda” by John C Maxwell.**<br>
 **“All cannot be lost when there is still so much being found" by Lemony Snicket.**
 </i>
 **Overview:**
