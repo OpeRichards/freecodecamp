@@ -5,7 +5,9 @@
 **"“The secret of your success is determined by your daily agenda” by John C Maxwell.**<br>
 **“All cannot be lost when there is still so much being found" by Lemony Snicket.**
 </i>
+
 **Overview:**
+
 •	**Title:** Learn String Manipulation by Building a Cipher
 
 •	**Course:** Scientific Computing with Python
