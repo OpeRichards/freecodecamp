@@ -2,8 +2,11 @@
 
 **Overview:**
 •	**Title:** Learn String Manipulation by Building a Cipher
+
 •	**Course:** Scientific Computing with Python
+
 •	**Platform:** freeCodeCamp
+
 •	**URL:** https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 **Project Description:**
@@ -19,4 +22,3 @@ The **Caesar cipher** is one of the simplest and oldest encryption techniques us
 3.	**Algorithm Implementation:** Implementing a cipher involves understanding the logic behind encryption and decryption algorithms and translating that logic into Python code. This includes writing functions to encrypt and decrypt messages based on the chosen cipher algorithm.
 4.	**Problem-Solving Skills:** Throughout the project, I encountered various challenges and obstacles where I learned more about using problem-solving skills to overcome. This involves debugging code, optimizing algorithms, and ensuring the program works correctly in different scenarios.
 5.	**Documentation and Presentation:** Writing clear and concise documentation for your code is an essential skill in software development. You might have learned how to document your code effectively, explain the purpose of functions and variables, and provide examples of usage.
-
