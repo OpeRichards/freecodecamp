@@ -1,5 +1,7 @@
 # Learn String Manipulation by Building a Cipher
 
+**“If you want to keep a secret, you must also hide it from yourself” by <i>George Orwell</i>.**
+
 **Overview:**
 •	**Title:** Learn String Manipulation by Building a Cipher
 
